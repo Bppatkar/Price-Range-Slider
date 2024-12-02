@@ -1,4 +1,4 @@
-# Price-Range-Slider
+# Price-Range-Slider [Live](https://bppatkar.github.io/Price-Range-Slider)
 
 This project implements a **price range selector** using HTML, CSS, and JavaScript. The feature includes synchronized input boxes and range sliders to allow users to set a minimum and maximum price while adhering to constraints such as a minimum price gap and valid ranges.
 
